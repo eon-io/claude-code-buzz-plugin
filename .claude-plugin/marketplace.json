@@ -15,7 +15,7 @@
         "source": "url",
         "url": "https://github.com/eon-io/claude-code-buzz-plugin.git"
       },
-      "homepage": "https://buzz.eon.io"
+      "homepage": "https://console.buzz.eon.io"
     }
   ]
 }
