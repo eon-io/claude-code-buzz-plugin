@@ -1,0 +1,21 @@
+{
+  "name": "buzz",
+  "metadata": {
+    "description": "Buzz plugin marketplace — MCP server for Buzz, Eon's internal AI assistant."
+  },
+  "owner": {
+    "name": "Eon",
+    "url": "https://eon.io"
+  },
+  "plugins": [
+    {
+      "name": "buzz",
+      "description": "Buzz MCP server — ask Buzz, Eon's internal multi-agent assistant, about Eon's business, data, and systems (Salesforce, Snowflake, the production database, Temporal, Groundcover, Zendesk, Gong, and more).",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/eon-io/claude-code-buzz-plugin.git"
+      },
+      "homepage": "https://buzz.eon.io"
+    }
+  ]
+}
