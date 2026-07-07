@@ -1,6 +1,6 @@
 {
   "name": "buzz",
-  "description": "Buzz MCP server — ask Buzz, Eon's internal multi-agent assistant, about Eon's business, data, and systems (Salesforce, Snowflake, the production database, Temporal, Groundcover, Zendesk, Gong, and more).",
+  "description": "Buzz MCP server — ask Buzz,  multi-agent assistant, about business, data, and systems.",
   "version": "0.1.0",
   "author": {
     "name": "Eon",
